@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VMoiseev/ra-hooks-context_useEffect/static/css/main.27cecb5c.css",
+    "main.js": "/VMoiseev/ra-hooks-context_useEffect/static/js/main.be0cef1d.js",
+    "index.html": "/VMoiseev/ra-hooks-context_useEffect/index.html",
+    "main.27cecb5c.css.map": "/VMoiseev/ra-hooks-context_useEffect/static/css/main.27cecb5c.css.map",
+    "main.be0cef1d.js.map": "/VMoiseev/ra-hooks-context_useEffect/static/js/main.be0cef1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27cecb5c.css",
+    "static/js/main.be0cef1d.js"
+  ]
+}
