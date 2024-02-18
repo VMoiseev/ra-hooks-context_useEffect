@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dqs9g4d7l4ei32d4?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-hooks-context-useeffect)
+## [Проект](https://vmoiseev.github.io/ra-hooks-context_useEffect/)
+
 Список и детали
 ===
 
